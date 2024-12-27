@@ -92,7 +92,7 @@ class zefoy:
             os._exit(1)
         video_url_box = https://vm.tiktok.com/ZNewDsWHY/
         search_box = f'/html/body/div[4]/div[{div}]/div/form/div/div/button'
-        vid_info = input("\n" + self._print(f"Username/VideoURL: "))
+        vid_info = input("\n" + self._print(fhttps://vm.tiktok.com/ZNewDsWHY/: "))
         self.send_bot(search_box, video_url_box, vid_info, div)
 
     def get_discord(self):
